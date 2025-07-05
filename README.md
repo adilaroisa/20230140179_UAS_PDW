@@ -1,0 +1,19 @@
+Tampilan Mahasiswa
+![image](https://github.com/user-attachments/assets/17cb3b30-18ab-4b54-b3fa-d88799866511)
+![image](https://github.com/user-attachments/assets/4fe4fe86-87ee-44d0-8129-c7fa345b9be0)
+![image](https://github.com/user-attachments/assets/0e92aa24-66b5-4499-ba98-06d38b2e3779)
+![image](https://github.com/user-attachments/assets/7f79ec72-c1d1-47ce-85d0-dfff67f49255)
+![image](https://github.com/user-attachments/assets/08218c40-3742-44d7-b7d9-48109fe47c86)
+![image](https://github.com/user-attachments/assets/2df54985-1ce5-43f9-88ad-fc57167269f0)
+
+Tampilan Asisten
+![image](https://github.com/user-attachments/assets/7cf5156a-0e01-4f03-b3d0-88851bc4b641)
+![image](https://github.com/user-attachments/assets/da2f9ecf-426a-4d18-b31d-6a831a05be9c)
+![image](https://github.com/user-attachments/assets/9310f486-5c47-4222-b947-0c705a382c80)
+![image](https://github.com/user-attachments/assets/7a2d2bad-04f7-49de-8699-e39ba3abacce)
+![image](https://github.com/user-attachments/assets/22c9f7fe-9099-4c42-ae52-1073753d11ce)
+![image](https://github.com/user-attachments/assets/b5b864bf-35ed-456c-a279-76413f97a1d9)
+![image](https://github.com/user-attachments/assets/534349fb-b792-4ade-bce4-22b5319ae525)
+![image](https://github.com/user-attachments/assets/0f74b333-3e64-49ad-a95f-92e93f39fbea)
+![image](https://github.com/user-attachments/assets/d1fdc19a-5175-47dc-8b4b-6942865bb463)
+![image](https://github.com/user-attachments/assets/5141b8dc-57c3-4544-93ee-dbaed57e0ae2)
