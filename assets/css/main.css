@@ -1,0 +1,65 @@
+/* assets/css/main.css */
+
+/* Custom Tailwind Configuration - Directly translated to CSS variables or custom properties if needed,
+   but for simplicity, we'll keep the color definitions here as they are directly used by Tailwind classes.
+   Note: Tailwind CDN configuration in HTML is processed at runtime.
+   To truly move all custom Tailwind config to CSS, you'd typically use a build process (e.g., PostCSS, Webpack)
+   to compile your Tailwind classes and custom configurations into a final CSS file.
+   For a simple CDN setup, directly defining these colors in your custom CSS won't override Tailwind's utility classes.
+   However, the `bg-auth` style can be fully defined here.
+*/
+
+/* If you were using a build process with Tailwind, these colors would be configured in tailwind.config.js
+   and then compiled into your CSS. For a CDN setup, the colors in the script tag are used by Tailwind directly.
+   The following is just for illustrative purposes if you wanted to define custom colors directly in CSS,
+   but for Tailwind, the JS config is the primary way for CDN usage. */
+:root {
+  --color-primary-50: #f0f9ff;
+  --color-primary-100: #e0f2fe;
+  --color-primary-200: #bae6fd;
+  --color-primary-300: #7dd3fc;
+  --color-primary-400: #38bdf8;
+  --color-primary-500: #0ea5e9;
+  --color-primary-600: #0284c7;
+  --color-primary-700: #0369a1;
+  --color-primary-800: #075985;
+  --color-primary-900: #0c4a6e;
+
+  --color-secondary-400: #60a5fa;
+  --color-secondary-500: #3b82f6;
+  --color-secondary-600: #2563eb;
+  --color-secondary-700: #1d4ed8;
+  --color-secondary-800: #1e40af;
+}
+
+
+/* Custom Styles */
+.bg-auth {
+  background: linear-gradient(135deg, rgba(224, 242, 254, 0.8) 0%, rgba(252, 231, 243, 0.6) 100%);
+}
+
+/* Custom button styles that were previously inline */
+.btn-primary-gradient {
+  background: linear-gradient(to right, var(--color-secondary-600), var(--color-secondary-700)); /* Using CSS variables for consistency */
+}
+
+.btn-primary-gradient:hover {
+  background: linear-gradient(to right, var(--color-secondary-700), var(--color-secondary-800)); /* Using CSS variables for consistency */
+}
+
+/* assets/css/main.css */
+
+/* Custom Styles */
+.bg-auth {
+  background: linear-gradient(135deg, rgba(224, 242, 254, 0.8) 0%, rgba(252, 231, 243, 0.6) 100%);
+}
+
+/* Custom button styles that were previously inline */
+/* Anda bisa juga menambahkan style ini untuk konsistensi */
+.btn-primary-gradient {
+  background: linear-gradient(to right, #2563eb, #1d4ed8);
+}
+
+.btn-primary-gradient:hover {
+  background: linear-gradient(to right, #1d4ed8, #1e40af);
+}
