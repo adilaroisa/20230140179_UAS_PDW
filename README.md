@@ -1,4 +1,6 @@
 Tampilan Mahasiswa
+![image](https://github.com/user-attachments/assets/3488138f-5911-49d1-ae86-4688489eb987)
+![image](https://github.com/user-attachments/assets/d8bb55e4-b894-43da-aa07-7b90fd44621f)
 ![image](https://github.com/user-attachments/assets/17cb3b30-18ab-4b54-b3fa-d88799866511)
 ![image](https://github.com/user-attachments/assets/4fe4fe86-87ee-44d0-8129-c7fa345b9be0)
 ![image](https://github.com/user-attachments/assets/0e92aa24-66b5-4499-ba98-06d38b2e3779)
@@ -7,6 +9,8 @@ Tampilan Mahasiswa
 ![image](https://github.com/user-attachments/assets/2df54985-1ce5-43f9-88ad-fc57167269f0)
 
 Tampilan Asisten
+![image](https://github.com/user-attachments/assets/d85655cd-8c20-474b-b7d2-cc657cd7715b)
+![image](https://github.com/user-attachments/assets/1850318f-aa41-4d4c-b2e1-84837f4ca0d9)
 ![image](https://github.com/user-attachments/assets/7cf5156a-0e01-4f03-b3d0-88851bc4b641)
 ![image](https://github.com/user-attachments/assets/da2f9ecf-426a-4d18-b31d-6a831a05be9c)
 ![image](https://github.com/user-attachments/assets/9310f486-5c47-4222-b947-0c705a382c80)
